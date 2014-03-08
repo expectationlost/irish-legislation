@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # this is for "Irish Legislation"
 
 require 'nokogiri'
